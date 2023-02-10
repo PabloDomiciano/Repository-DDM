@@ -1,0 +1,48 @@
+			PROJETO EM DDM - DESENVOLVIMENTO DE DISPOSITIVOS MÓVEIS
+
+
+Profissões, carreiras, vagas, mercado, perfil, salário, linguagens, tecnologias (Desenvolvimento Móbile);
+Livro e suas justificativas;
+
+Sabados letivos - 25/02, 19/08, 30/09;
+
+Atendimento Segunda, 13h ás 18h;
+
+Materiais de apoio -
+	MOODLE;
+	YOUTUBE;
+	GITHUB;
+
+
+Plano de ensino - 
+	Desenvolvimento de um projeto mobile, de modo individual, ou fazer a realização de uma prova juntando todos
+os conteúdos que serão retratados.
+
+Objetivo da disciplina - 
+	Reconhecer e desenvolver dispositivos móveis.
+ 
+Calendário-sábado letivo -
+	25/02, 19/08, 30/09
+
+
+PESQUISA DO DDM - 
+	O desenvolvimento mobile é um tipo de rotina de criação de soluções de TI voltadas para tablets,
+smartphones e outros dispositivos móveis. Essa área ganhou força na última década após o lançamento do iOS e do 
+Android, as principais plataformas de sistema operacionasis.
+
+	iFood, Uber e Clubhouse são apenas alguns exemplos de serviços e redes sociais focadas no ambiente mobile.
+Todas elas trabalham com um time de desenvolvimento que direcionam os seus recursos para entregar funcionalidades 
+adaptadas ao ambiente móvel e que sejam inovadoras.
+
+	Os princípios do desenvolvimento mobile, Programação Orientada a Objetos;
+						Uso recorrente do GIT;
+						Especificidades do ambiente móvel;
+						Code Review;
+						Offline first pattern;
+						Port de aplicativos de outras plataformas;
+						Acessibilidade;
+						Ferramenta leve;
+						Usabilidade;
+	No cargo de Desenvolvedor Mobile se inicia ganhando R$2.113,00 de salário e pode vir a ganhar até R$5.131,00 
+com média salarial de até R$3.474,00. 
+	Algumas das linguagens utilizadas para o DDM são, OBJECTIVE-C, SWIFTM, JAVA e KOTLIN;
